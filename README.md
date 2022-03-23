@@ -1,7 +1,7 @@
 ## LABORATORIO DE COMPUTACION II
 ##### Mateo **Negri Ocampo**
 
-### Clase Practica 3
+### Practico C2
 
 * Sistemas Operativos
 * Herramientas de _Desarrollo_
