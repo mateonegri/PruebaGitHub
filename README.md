@@ -3,10 +3,10 @@
 
 ### Clase Practica 3
 
-*Sistemas Operativos
-*Herramientas de _Desarrollo_
-	*Git
-	*[**Git Avanzado**](http://ucc-labcompu2.github.io/filminas/U2_git_avanzado#/)
+* Sistemas Operativos
+* Herramientas de _Desarrollo_
+	* Git
+	* [**Git Avanzado**](http://ucc-labcompu2.github.io/filminas/U2_git_avanzado#/)
 
 ### Informacion de Contacto
 
